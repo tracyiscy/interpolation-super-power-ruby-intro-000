@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  puts "Rainbow's color is #{colors[0]},#{colors[1]},#{colors[2]},#{colors[3]},#{colors[4]},#{colors[5]},#{colors[6]}"
+  puts "The colors of the rainbow are #{colors[0]},#{colors[1]},#{colors[2]},#{colors[3]},#{colors[4]},#{colors[5]},#{colors[6]}."
 end
